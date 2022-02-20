@@ -1,0 +1,16 @@
+Z:\Visual\Gityyy\Crawler\Crawler\bin\Debug\net5.0\Crawler.exe
+Z:\Visual\Gityyy\Crawler\Crawler\bin\Debug\net5.0\Crawler.deps.json
+Z:\Visual\Gityyy\Crawler\Crawler\bin\Debug\net5.0\Crawler.runtimeconfig.json
+Z:\Visual\Gityyy\Crawler\Crawler\bin\Debug\net5.0\Crawler.runtimeconfig.dev.json
+Z:\Visual\Gityyy\Crawler\Crawler\bin\Debug\net5.0\Crawler.dll
+Z:\Visual\Gityyy\Crawler\Crawler\bin\Debug\net5.0\ref\Crawler.dll
+Z:\Visual\Gityyy\Crawler\Crawler\bin\Debug\net5.0\Crawler.pdb
+Z:\Visual\Gityyy\Crawler\Crawler\obj\Debug\net5.0\Crawler.csprojAssemblyReference.cache
+Z:\Visual\Gityyy\Crawler\Crawler\obj\Debug\net5.0\Crawler.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Visual\Gityyy\Crawler\Crawler\obj\Debug\net5.0\Crawler.AssemblyInfoInputs.cache
+Z:\Visual\Gityyy\Crawler\Crawler\obj\Debug\net5.0\Crawler.AssemblyInfo.cs
+Z:\Visual\Gityyy\Crawler\Crawler\obj\Debug\net5.0\Crawler.csproj.CoreCompileInputs.cache
+Z:\Visual\Gityyy\Crawler\Crawler\obj\Debug\net5.0\Crawler.dll
+Z:\Visual\Gityyy\Crawler\Crawler\obj\Debug\net5.0\ref\Crawler.dll
+Z:\Visual\Gityyy\Crawler\Crawler\obj\Debug\net5.0\Crawler.pdb
+Z:\Visual\Gityyy\Crawler\Crawler\obj\Debug\net5.0\Crawler.genruntimeconfig.cache
